@@ -1,0 +1,47 @@
+numpy
+scipy
+trimesh>=4.0.0
+pyrender
+PyOpenGL
+pyglet
+imageio
+Pillow
+opencv-python
+torch>=2.0.0
+torchvision
+tqdm
+matplotlib
+pyyaml
+tensorflow>=2.12.0
+# Core
+numpy
+scipy
+pandas
+tqdm
+matplotlib
+Pillow
+
+# PyTorch (CPU only)
+torch
+torchvision
+torchaudio
+
+# 3D geometry + rendering
+trimesh
+pyrender
+pyglet
+imageio
+opencv-python
+
+# Visualization
+pyvista
+open3d
+
+# Metrics
+scikit-learn
+scipy
+
+tensorflow
+
+jupyter 
+notebook
